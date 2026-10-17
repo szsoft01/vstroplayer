@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 0,
-  "latest_version_name": "8.8.1",
+  "latest_version_code": 223,
+  "latest_version_name": "8.8.6",
   "force_update": true,
-  "update_title": "发现新版本",
-  "update_message": "1. 优化播放体验\n2. 修复已知问题\n\n提升使用稳定性。"
+  "update_title": "发现新版本11",
+  "update_message": "1. 优化播放体验11\n2. 修复已知问题11\n\n提升使用稳定性。"
 }
